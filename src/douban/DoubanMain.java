@@ -14,10 +14,6 @@ public class DoubanMain {
 		String out3 = bootPath + "step3";
 		String out4 = bootPath + "step4";
 		String out5 = bootPath + "step5";
-		/*
-		 * Configuration conf = new Configuration(); conf.set("fs.hdfs.impl",
-		 * "org.apache.hadoop.hdfs.DistributedFileSystem");
-		 */
 
 		System.setProperty("HADOOP_USER_NAME", "root");
 		Step1.runJob(inputPath, out1);
