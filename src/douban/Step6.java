@@ -15,7 +15,6 @@ import java.sql.DatabaseMetaData;
 /**
  * Apache Sqoop moved into the Attic in 2021-06 HDFS->MySQL 
  * yoseng 2021-12-01
- * beta
  * 
  */
 
