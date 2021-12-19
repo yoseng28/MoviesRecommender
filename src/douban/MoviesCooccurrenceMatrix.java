@@ -1,6 +1,6 @@
 package douban;
 
-// 共现矩阵
+// 电影共现矩阵
 public class MoviesCooccurrenceMatrix {
 	
 	private int movieID1;
