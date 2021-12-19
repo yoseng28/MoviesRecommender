@@ -14,7 +14,6 @@ public class DoubanMain {
 		String out3 = bootPath + "step3";
 		String out4 = bootPath + "step4";
 		String out5 = bootPath + "step5";
-
 		System.setProperty("HADOOP_USER_NAME", "root");
 		Step1.runJob(inputPath, out1);
 		Step2.runJob(out1, out2);
