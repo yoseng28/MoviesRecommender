@@ -19,7 +19,7 @@ import tools.HDFSTools;
 
 /**
  * @author yoseng
- * 矩阵相乘：乘积累加
+ *  矩阵相乘：乘积累加
  */
 class Step5 {
 

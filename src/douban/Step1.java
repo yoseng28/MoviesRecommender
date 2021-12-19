@@ -15,7 +15,6 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import tools.HDFSTools;
 
 /**
- * 
  * @author yoseng
  * 计算用户对电影的评分矩阵
  */

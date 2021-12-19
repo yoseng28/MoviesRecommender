@@ -18,7 +18,6 @@ import tools.HDFSTools;
 /**
  * @author yoseng 
  * 建立电影同现矩阵
- * 
  */
 class Step2 {
 

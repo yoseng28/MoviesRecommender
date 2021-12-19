@@ -20,7 +20,7 @@ import tools.HDFSTools;
 
 /**
  * @author yoseng
- * 矩阵相乘---对应位置相乘
+ * 矩阵相乘--对应位置相乘
  */
 class Step4 {
 
